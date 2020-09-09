@@ -9,7 +9,7 @@ body {
 
 main {
     margin: 25px 0;
-    min-height: calc(100vh - 70px)
+    min-height: calc(100vh - 80px)
 }
 
 .col-sm-8 {
@@ -17,5 +17,13 @@ main {
 }
 
 footer {
-    margin-top: 50px;
+    margin-top: 70px;
+}
+
+.gallery {
+    max-height: 350px;
+    max-width: 350px;
+    height: 100%;
+    width: 100%;
+    padding: 10px;
 }
