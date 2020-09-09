@@ -9,8 +9,13 @@ body {
 
 main {
     margin: 25px 0;
+    min-height: calc(100vh - 70px)
 }
 
 .col-sm-8 {
     background-color: white;
+}
+
+footer {
+    margin-top: 50px;
 }
