@@ -1,3 +1,21 @@
 * {
-    
+    font-family: 'Work Sans', sans-serif;
+}
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1599378097300-a2e33dc51a81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1566&q=80);
+    background-color: #cccccc;
+}
+
+.card {
+    margin: 25px 25px;
+}
+
+.card-title {
+    color: rgb(24, 26, 37);
+    font-size: 30px;
+}
+
+footer {
+    background-color:rgb(24, 26, 37);
 }
